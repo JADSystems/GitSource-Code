@@ -1,0 +1,117 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="991" measuredH="775" mockupW="866" mockupH="769">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="125" y="6" w="866" h="769" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>2848996</color>
+        <text>www.TrekTip.com</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SearchBox" x="227" y="166" w="266" h="-1" measuredW="206" measuredH="30" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>18</size>
+        <text>Where%20are%20you%20going%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="125" y="78" w="846" h="61" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="155" y="93" w="59" h="42" measuredW="214" measuredH="153" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/TrekTrip%2520Logo.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="227" y="95" w="209" h="-1" measuredW="96" measuredH="36" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>TrekTip</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="344" y="104" w="-1" h="-1" measuredW="254" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Navigate%2C%20Create%20events%2C%20and%20invite%20anyone%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::SearchBox" x="508" y="166" w="266" h="-1" measuredW="235" measuredH="30" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>18</size>
+        <text>What%20are%20you%20looking%20for%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="807" y="100" w="155" h="-1" measuredW="155" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Hi%2C%20Nick%20%7C%20Signout</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Canvas" x="125" y="139" w="846" h="70" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="789" y="169" w="-1" h="-1" measuredW="98" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Canvas" x="287" y="412" w="512" h="77" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="268" y="354" w="-1" h="-1" measuredW="552" measuredH="68" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>0</color>
+        <italic>false</italic>
+        <size>60</size>
+        <text>Create%20an%20Attraction</text>
+        <textOrientation>right</textOrientation>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextInput" x="311" y="437" w="227" h="-1" measuredW="168" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Zip%20Code%2C%20City%2C%20or%20Address</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="676" y="429" w="98" h="42" measuredW="97" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <size>24</size>
+        <text>Create</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Canvas" x="125" y="642" w="846" h="61" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="167" y="145" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="140" y="673" w="-1" h="-1" measuredW="88" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%A92015%20TrekTip</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::LinkBar" x="770" y="674" w="-1" h="-1" measuredW="192" measuredH="19" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About%20Us%2C%20Contact%2C%20Site%20Map</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Image" x="125" y="209" w="846" h="433" measuredW="1134" measuredH="777" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/USA%2520animal%2520map%2520for%2520kids.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::ComboBox" x="553" y="437" w="-1" h="-1" measuredW="95" measuredH="171" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Event%20type%0ABarmitzvah%0ABirthday%0ABreakfast%0ADinner%0AFuneral%0ALunch%2C%0AReception%0AWedding%0AOther</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
